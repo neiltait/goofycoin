@@ -1,0 +1,2 @@
+# goofycoin
+Flawed Cryptocurrency Implementation
